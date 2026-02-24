@@ -27,7 +27,7 @@ The data flows through a structured pipeline to ensure quality and reproducibili
 
 ![Data Pipeline](data_pipeline.png)
 
-![Data Pipeline](output\pipeline.png)
+![Data Pipeline](ipeline.png)
 
 ### Step-by-step breakdown:
 1.  **Download:** Fetches the raw ZIP file and extracts it to `data/raw`.
