@@ -10,7 +10,7 @@ Binary image classification of dogs vs cats using a Convolutional Neural Network
 * [📊 Evaluation & Results](#-evaluation--results)
 * [📁 Project Structure](#-project-structure)
 * [⚙️ Setup & Installation](#-setup--installation)
-* [🚀 Usage](#-usage)
+* [🚀 Usage](#-usage) 
 
 ---
 
