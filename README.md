@@ -42,7 +42,7 @@ The data flows through a structured pipeline to ensure quality and reproducibili
 ## 🧠 Model Architecture
 The model is a custom **Convolutional Neural Network (CNN)** designed for efficient binary classification. It follows a modular design with three convolutional blocks that progressively extract higher-level features from the images.
 
-![CNN Architecture](output\cnn_architecture.png.png)
+![CNN Architecture](output/cnn_architecture.png)
 
 ### Architecture breakdown:
 *   **Input Layer:** Accepts RGB images of size **150x150x3**.
